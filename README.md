@@ -1,2 +1,2 @@
 # send-gitlab-msg
-- send gitlab evnet to the telegram
+- send gitlab events to the telegram
